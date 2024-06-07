@@ -139,5 +139,6 @@
     "yargs": "^17.7.2",
     "yargs-parser": "^21.1.1"
   },
-  "description": ""
+  "description": "TypeScript Examples Repository\r Welcome to my TypeScript examples repository! This repository contains various examples and exercises I worked on while learning TypeScript. Below is a summary of the topics covered, along with explanations for each.",
+  "keywords": []
 }
